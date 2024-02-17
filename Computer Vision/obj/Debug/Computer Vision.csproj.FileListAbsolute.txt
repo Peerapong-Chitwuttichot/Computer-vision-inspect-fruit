@@ -1,0 +1,35 @@
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer Vision.csproj.AssemblyReference.cache
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer_Vision.Form1.resources
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer_Vision.Properties.Resources.resources
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer Vision.csproj.GenerateResource.cache
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer Vision.csproj.CoreCompileInputs.cache
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\concrt140.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\cvextern.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\msvcp140.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\msvcp140_1.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\msvcp140_2.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\msvcp140_codecvt_ids.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\vcruntime140.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x64\vcruntime140_1.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\concrt140.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\cvextern.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\msvcp140.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\msvcp140_1.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\msvcp140_2.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\msvcp140_codecvt_ids.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\x86\vcruntime140.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Computer Vision.exe.config
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Computer Vision.exe
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Computer Vision.pdb
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Emgu.CV.Bitmap.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\System.Drawing.Common.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Emgu.CV.Bitmap.xml
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer Vision.csproj.CopyComplete
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer Vision.exe
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\obj\Debug\Computer Vision.pdb
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Aspose.Imaging.dll
+D:\CPE ปี 3\CPE 3 TERM2\523453 Computer Vision\Computer Vision\Computer Vision\bin\Debug\Aspose.Imaging.xml
